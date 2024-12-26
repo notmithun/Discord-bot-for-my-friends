@@ -251,4 +251,4 @@ async def roleinfo(user: discord.Integration):
 - **Role ID (asked when buying):** 6
 """)
 
-bot.run(os.getenv("DISCORD_TOKEN"))
+bot.run(os.getenv("DISCORD_TOKEN")) # Coming here for the token? Well, it's in the .env file. Check an another repo!
