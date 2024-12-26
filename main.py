@@ -9,7 +9,6 @@ from sys import exit
 from random import randint, choice
 import json
 import helper
-import logging
 
 load_dotenv(Path("./.env"))
 

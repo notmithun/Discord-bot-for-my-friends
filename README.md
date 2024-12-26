@@ -1,2 +1,2 @@
 # The-Homies-Discord-Bot
- The Homies bot
+ I created this for my friends' server.
